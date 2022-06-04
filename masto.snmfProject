@@ -1,0 +1,5 @@
+new("snmfProject", snmfProject.file = "masto.snmfProject", projDir = "./", 
+    snmfDir = "masto.snmf/", input.file = "masto.geno", runs = list(), 
+    K = integer(0), snmfClass.files = logical(0), n = integer(0), 
+    L = integer(0), creationTime = structure(1654380433.10216, class = c("POSIXct", 
+    "POSIXt")))
