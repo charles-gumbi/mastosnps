@@ -1,2 +1,2 @@
 # mastosnps
-This is a project gear towards loking for outlier  snps in mastomys natalesis
+This is a project geared towards loking for snps with evolutionary significance in Mastomys natalesis
